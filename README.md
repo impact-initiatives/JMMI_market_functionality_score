@@ -1,4 +1,4 @@
-# IMPACT_MFS_toolkit
+# JMMI_market_functionality_score
 ## Generic tools for IMPACT Market Functionality Score (MFS)
 
 This project contains smoe basic tools for calculating a Market Functionality Score (MFS) using JMMI data.
