@@ -24,4 +24,5 @@ It contains the following:
 - input - this contains a .csv with the points of all market locations in the JMMI tool and a .gpkg with the spatial layers for the admin boudaries (adm0 - adm2) for the country. The SSD layers are provided as an example.
 - output - the folder for the output .png files.
 
-Original script: Sirimon Thomas - sirimon.thomas@impact-initiatives.org
+Please contact for any enquiry: Giovanni Giuliari - giovanni.giuliari@impact-initiatives.org
+Original script: Sirimon Thomas
