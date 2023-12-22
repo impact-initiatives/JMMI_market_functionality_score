@@ -25,4 +25,5 @@ It contains the following:
 - output - the folder for the output .png files.
 
 Please contact for any enquiry: Giovanni Giuliari - giovanni.giuliari@impact-initiatives.org
+
 Original script: Sirimon Thomas
